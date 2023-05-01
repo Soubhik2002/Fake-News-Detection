@@ -17,7 +17,7 @@ The project makes use of the Kaggle false News Dataset, which is made up of over
  
 
 ## Installation:
- 1. Git clone `https://github.com/pritipaul/Fake-News-Detection.git` to copy the repository.
+ 1. Git clone `https://github.com/Soubhik2002/Fake-News-Detection.git` to copy the repository.
  
 
 ## Usage :
